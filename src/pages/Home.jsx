@@ -21,7 +21,7 @@ const Home = () => {
           </Link>
           <Link
             to="/about"
-            className="text-[4vw] w-fit border-3 rounded-full px-16 py-0 font-[font1]"
+            className="text-[4vw] w-fit border-3 rounded-full px-16 py-0 font-[font1] "
           >
             ABOUT
           </Link>
